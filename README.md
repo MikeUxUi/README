@@ -12,10 +12,10 @@
 > **"Mi objetivo es pensar para que los usuarios no lo tengan que hacer"**
 
 Con una trayectoria profesional diversa, he desarrollado amplia experiencia en:
-- 🏗️ **Proyectista Industrial y CAD/BIM** - Estructuras, obras civiles e instalaciones MEP
 - 🎨 **Diseñador Gráfico y Web** - Múltiples proyectos en diversas áreas
 - 🧠 **Investigación UX/UI** - Análisis de mercado y estudios en profundidad
 - 🤖 **Inteligencia Artificial** - Aplicada al diseño y desarrollo
+- 🏗️ **Proyectista Industrial y CAD/BIM** - Estructuras, obras civiles e instalaciones MEP
 
 ### 🌟 Motivaciones Principales
 - 🎓 Refrescar y mejorar mi nivel de inglés
