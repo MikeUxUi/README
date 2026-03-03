@@ -1,22 +1,175 @@
-# 💫 About Me:
-Diseñador DCU-Ux/Ui en constante evolución reconvertido de Proyectista CAD/BIM. A lo largo de mi trayectoria profesional, he desarrollado una amplia experiencia como Proyectista Industrial y Diseñador Gráfico y WEB en diversas áreas, incluyendo arquitectura, estructuras, obras civiles e instalaciones MEP en el área Industrial y en múltiples proyectos en gráfica.<br><br>Hoy diversificado con Investigaciones de mercado (productos o servicios) y marcas; análisis y estudios de casi cualquier materia.<br><br>Impulsado por los cambios del mundo actual y la pandemia, decidí aprovechar mi tiempo y ampliar mis horizontes. Aproveché mi experiencia previa en diseño web para adquirir nuevos conocimientos y habilidades en DCU - Ux/Ui, tanto a través de cursos online como de forma autodidacta. Ahora aplico mis habilidades en diseño DCU - Ux/Ui y la inteligencia artificial ( IA ), investigando a fondo y plasmando los resultados tanto en informes consecuentes con resultados y conclusiones verificables en interfaces eficientes y en constante mejora. Mi objetivo es "pensar para que los usuarios no lo tengan que hacer", y desde esa perspectiva, mi forma de navegar ha cambiado por completo.<br><br>En resumen, soy un profesional apasionado por el diseño UX/UI, en constante aprendizaje y con una amplia experiencia en diversas áreas. Me adapto fácilmente a nuevos entornos y estoy dispuesto a afrontar nuevos retos.<br><br>Además de mi pasión por el diseño UX/UI, me encuentro motivado por:<br><br>Refrescar y mejorar mi nivel de inglés.<br><br>Mi formación cristiana y mis experiencias espirituales me han impulsado a crear un proyecto de Coaching en desarrollo y obtener una certificación como Coach Integral.<br><br>Cuento con una amplia gama de programas y herramientas de diseño, tanto gráfico como UX/UI, así como de codificación. Estoy preparado para trabajar de forma remota y colaborar en proyectos y equipos en cualquier parte del mundo.<br><br><br>Mis experiencias en el área técnica, desde el dibujo y proyectos han decantado en la coordinación, cubicaciones y chequeo en Obras Civiles y Proyectos Estructurales principalmente:<br>- Estructuras hormigón armado y metálicas (cubicaciones). Proyectista en puentes, pasos desnivelados y peatonales. Estructuras de bases y plataformas para la minería y Obras civiles para la minería y viales en general. Movimiento de tierras. <br>Otras especialidades aplicadas son:<br>- Proyectos Mecánicos y de Piping: Dibujante proyectista. Planos Disp. Generales de plantas de proceso y disposición de equipos y máquinas. Diseño, Montajes y Fabricación. Levantamientos.
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=900&lines=¡Hola!+Soy+Mike+🎨;Diseñador+UX%2FUI+%26+Developer;Creando+experiencias+digitales+increíbles" alt="Typing SVG" /></div>
 
+---
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/dcuxui.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/luisemmartne) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Luisemilio69) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@proyectistacad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dcuxui-cl) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://cl.pinterest.com/proyectistacad/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/mK-Lab8/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@mklab22) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@TheWildMike) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@LuisEmilioMike) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@https://mastodon.social/@mK_Lab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dise.uxui@gmail.com) 
+## 👨‍💼 Sobre Mí
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MikeUxUi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MikeUxUi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeUxUi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <p><strong>Diseñador DCU-UX/UI en constante evolución</strong></p>
+  <p>Reconvertido de Proyectista CAD/BIM | Apasionado por el Diseño y la Tecnología</p>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MikeUxUi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+> **"Mi objetivo es pensar para que los usuarios no lo tengan que hacer"**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Con una trayectoria profesional diversa, he desarrollado amplia experiencia en:
+- 🏗️ **Proyectista Industrial y CAD/BIM** - Estructuras, obras civiles e instalaciones MEP
+- 🎨 **Diseñador Gráfico y Web** - Múltiples proyectos en diversas áreas
+- 🧠 **Investigación UX/UI** - Análisis de mercado y estudios en profundidad
+- 🤖 **Inteligencia Artificial** - Aplicada al diseño y desarrollo
+
+### 🌟 Motivaciones Principales
+- 🎓 Refrescar y mejorar mi nivel de inglés
+- 💪 Certificación como Coach Integral Profesional
+- 🌍 Colaborar en proyectos globales de forma remota
+- 🚀 Innovar en experiencias de usuario exceptionales
+
+---
+
+## 🌐 Conecta Conmigo
+
+<div align="center">
+
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/luisemmartne)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcuxui-cl)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/proyectistacad)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LuisEmilioMike)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/dcuxui.bsky.social)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/@TheWildMike)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dise.uxui@gmail.com)
+
+</div>
+
+---
+
+## 💻 Mi Stack Tecnológico
+
+### 🎨 Diseño & Creatividad
+<div align="center">
+
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+
+</div>
+
+### 💻 Desarrollo Frontend
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
+
+</div>
+
+### ⚙️ Desarrollo Backend
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+### 🗄️ Bases de Datos & Cloud
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+### 🛠️ Herramientas & Plataformas
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Mis Estad��sticas GitHub
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=MikeUxUi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeUxUi&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&layout=compact)
+
+![](https://nirzak-streak-stats.vercel.app/?user=MikeUxUi&theme=radical&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## 🏆 Logros & Reconocimientos
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=MikeUxUi&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+## ✨ Mi Propuesta de Valor
+
+| 🎯 Enfoque | 📋 Descripción |
+|-----------|----------------|
+| **UX/UI Design** | Diseño centrado en el usuario con investigación profunda |
+| **Research** | Análisis de mercado y estudios de usabilidad |
+| **Development** | Implementación técnica de soluciones creativas |
+| **Innovación** | Integración de IA en procesos de diseño |
+| **Colaboración** | Trabajo en equipo remoto y multidisciplinario |
+
+---
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+  
+  **Próximamente**: Portafolio completo con proyectos de diseño UX/UI y desarrollo web
+  
+  ⭐ Si te interesa colaborar, ¡no dudes en contactarme!
+
+</div>
+
+---
+
+## 📝 Cita Inspiradora
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0d1117&text_color=00D4FF)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Visitas al Perfil
+[![](https://visitcount.itsvg.in/api?id=MikeUxUi&icon=6&color=0)](https://visitcount.itsvg.in)
+
+**Gracias por visitar mi perfil** 💙 | **Let's create something amazing together!** 🚀
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MikeUxUi&icon=0&color=0)](https://visitcount.itsvg.in)
