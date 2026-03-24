@@ -144,7 +144,8 @@ Con una trayectoria profesional diversa, he desarrollado amplia experiencia en:
 
 <div align="center">
   
-  **Próximamente**: Portafolio completo con proyectos de diseño UX/UI y desarrollo web
+  Portafolio con proyectos de diseño UX/UI y desarrollo web
+  https://www.behance.net/luisemmartne
   
   ⭐ Si te interesa colaborar, ¡no dudes en contactarme!
 
